@@ -1,0 +1,5 @@
+p, CalendarReader, calendar, read
+p, CalendarWriter, calendar, write
+g, CalendarWriter, CalendarReader
+g, Admin, CalendarReader
+g, Admin, CalendarWriter
